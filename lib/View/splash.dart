@@ -20,7 +20,7 @@ class _SplashState extends State<Splash> {
           height: myHeight,
           width: myWidth,
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.spaceAround,
+               mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
               Image.asset('assets/image/lancher.png'),
               Column(
